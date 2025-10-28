@@ -1,0 +1,5 @@
+print("third code file here ")
+print("adding more lines to third code file")
+print("this is fun")
+print("exploring git commands")
+print("collaborating on github")
